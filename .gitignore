@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SB Express Inc – Trucking Company</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background-color: #004aad;
+            color: white;
+            padding: 20px 10px;
+            text-align: center;
+        }
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 8px;
+        }
+        h1, h2 {
+            color: #004aad;
+        }
+        p {
+            margin: 10px 0;
+        }
+        .company-info, .opt-in, .contact {
+            margin-bottom: 20px;
+        }
+        .contact-info {
+            font-weight: bold;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            margin-top: 20px;
+            background-color: #eee;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>SB Express Inc</h1>
+        <p>Reliable Trucking and Freight Services</p>
+    </header>
+    <main>
+        <section class="company-info">
+            <h2>Company Information</h2>
+            <p><strong>Company Name:</strong> SB Express Inc</p>
+            <p><strong>Phone Number:</strong> 503-347-9233</p>
+            <p><strong>Email:</strong> <a href="mailto:SBEXPRESSINC@YAHOO.COM">SBEXPRESSINC@YAHOO.COM</a></p>
+            <p><strong>MC Number:</strong> 567867</p>
+            <p><strong>USDOT Number:</strong> 1518276</p>
+            <p><strong>Address:</strong> 3420 Atrium Boulevard, Ste 160, Middletown, OH 45005</p>
+        </section>
+
+        <section class="opt-in">
+            <h2>10DLC Opt-in Statement</h2>
+            <p>
+                Our website is not used to collect consumer opt-in for this 10DLC campaign. 
+                Consumers provide consent verbally or through other offline means.
+            </p>
+        </section>
+
+        <section class="contact">
+            <h2>Contact Us</h2>
+            <p class="contact-info">Phone: 503-347-9233</p>
+            <p class="contact-info">Email: <a href="mailto:SBEXPRESSINC@YAHOO.COM">SBEXPRESSINC@YAHOO.COM</a></p>
+            <p>We are ready to assist with all trucking and freight services.</p>
+        </section>
+    </main>
+    <footer>
+        &copy; 2026 SB Express Inc. All rights reserved.
+    </footer>
+</body>
+</html>
